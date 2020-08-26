@@ -1,0 +1,2 @@
+# Inception
+Inception is a java library, to write, compile (not in byte code), and execute code (some kind of java) dynamically at run time. By this way one can dynamically update android app from remote server. Or in android system it can be used to dynamically build an app from the app or can be alter the app's functionality at run time. Or someone can deploy a blank app and in future can inject something inside app.
